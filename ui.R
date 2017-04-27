@@ -80,7 +80,7 @@ shinyUI(navbarPage("Карта России в цвете",
                                 
                                 h5("Файл должен быть в формате xlsx и содержать минимум 2 колонки: названия регионов и интересующий
                                          вас показатель. Важно, чтобы названия регионов соответствовали образцу, 
-                                         представленному по", a("ссылке", href = "https://github.com/zhitkovk/Russia_in_colour/raw/master/data/region_list.xlsx", target="_blank",
+                                         представленному по", a("ссылке", href = "https://github.com/univelopment/Russia_in_colour/blob/master/data/region_list.xlsx?raw=true", target="_blank",
                                                                 rel="noopener noreferrer"), ".", "К примеру, фраза \"г. Москва\"
                                          должна содержать пробел после \"г.\"."
                                 ),
